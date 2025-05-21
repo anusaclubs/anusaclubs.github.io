@@ -3,6 +3,10 @@ description: Resources for ANU Student Clubs and Societies
 theme: just-the-docs
 
 url: https://anusaclubs.github.io
+#logo: 
+
+footer_content: "Copyright &copy; 2025 ANU Students' Association. Contribute to the project <a href=\"https://github.com/anusaclubs/anusaclubs.github.io" on Github</a>"
+
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
