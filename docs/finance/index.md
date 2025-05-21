@@ -13,14 +13,14 @@ Welcome to the Club Finances resources! Managing your club's money effectively i
 
 ## Key Financial Topics:
 
-*   **[Basic Bookkeeping]({% ./basic-bookkeeping.md %})**
+*   **[Basic Bookkeeping](./basic-bookkeeping.html)**
     *   Learn the fundamentals of tracking income and expenses, managing petty cash, and creating yearly and event-specific budgets. Essential for maintaining a clear financial picture.
 
-*   **[Funding Applications]({% ./funding-applications.md %})**
+*   **[Funding Applications](./funding-applications.html)**
     *   Guidance on how to apply for funding from ANUSA.
     <!-- *(This page will need to be created or adapted from your previous `funding-guide.md`)* -->
 
-*   **[Sponsorship Guide]({% ./sponsorship-guide.md %})**
+*   **[Sponsorship Guide](./sponsorship-guide.html)**
     *   Explore how to approach and secure sponsorships from external organizations to support your club's activities and growth.
     <!-- *(This is a placeholder for a common resource you might want to create)* -->
 
