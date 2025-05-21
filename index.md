@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome to the ANUSA Clubs & Societies Executive Hub!
+# Welcome to the ANUSA Clubs & Societies Resource Portal!
 
 This website provides resources for the ANUSA Clubs program. On the sidebar, you can navigate through a wealth of information designed to help you successfully lead, manage, and grow your student club or society.
 
