@@ -67,7 +67,7 @@ Your club's email should be checked regularly, this is how ANUSA communicates im
 
 ## 12. Bush Week Market Day
 This is quite similar to the O-Week Market Day, except it can be tricky to find enough people to be on the stall when people have class. Learn from what you did on market day, you should hit your stride now!
-(See also: [Market Day Guide]({% ../../events/market-day-guide.md %}))
+(See also: [Market Day Guide](../../events/market-day-guide.html))
 
 ## 13. Ball Season (if applicable)
 If your club is planning on running a Ball or Special Event, this takes quite a lot of organisation, time and financial planning. Make sure you support the exec members handling this, and allocate the workload fairly!
