@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://anusaclubs.github.io
 #logo: 
 
-#footer_content: "Copyright &copy; 2025 ANU Students' Association. Contribute to the project <a href=\"https://github.com/anusaclubs/anusaclubs.github.io" on Github</a>"
+footer_content: "Copyright &copy; 2025 ANU Students' Association. Contribute to the project <a href=\"https://github.com/anusaclubs/anusaclubs.github.io" on Github</a>"
 
 
 aux_links:
