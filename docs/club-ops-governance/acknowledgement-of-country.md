@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acknowledgements of Country
-parent: University Guidelines
+parent: Club Operations & Governance
 nav_order: 1
 description: Guidance on understanding and delivering appropriate Acknowledgements of Country for club events and communications.
 ---

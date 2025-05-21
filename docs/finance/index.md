@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Club Finances
+title: Finance
 #parent: Home
 nav_order: 2 # Or adjust as needed relative to other main categories like Club Ops, Events
 has_children: true
