@@ -2,7 +2,7 @@
 layout: default
 title: Club Operations & Governance
 #parent: Home
-nav_order: 1 # Or whatever order you prefer for main categories
+nav_order: 2 # Or whatever order you prefer for main categories
 has_children: true
 description: Essential guides for running your club smoothly, from planning your year to managing your team and adhering to governance.
 ---
