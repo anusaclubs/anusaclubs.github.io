@@ -18,11 +18,11 @@ Welcome to the Club Finances resources! Managing your club's money effectively i
 
 *   **[Funding Applications](./funding-applications.md)**
     *   Guidance on how to apply for funding from ANUSA.
-    *(This page will need to be created or adapted from your previous `funding-guide.md`)*
+    <!-- *(This page will need to be created or adapted from your previous `funding-guide.md`)* -->
 
 *   **[Sponsorship Guide](./sponsorship-guide.md)**
     *   Explore how to approach and secure sponsorships from external organizations to support your club's activities and growth.
-    *(This is a placeholder for a common resource you might want to create)*
+    <!-- *(This is a placeholder for a common resource you might want to create)* -->
 
 ---
 
