@@ -13,7 +13,7 @@ Every year starts and ends with an Annual General Meeting. Now that your Executi
 
 ## 2. Handover
 This will be one of the most important things you'll do as a member of an exec, get that institutional knowledge! Learning from other people's success and failure is super important. If you can't get a written and/or oral handover, you could also contact someone else on that exec, or someone who's done that role in a previous year, or someone you know who has held a similar role in another organisation.
-(See also: [How to Handover](./handover-guide.md))
+(See also: [How to Handover]({% ./handover-guide.md %}))
 
 ## 3. Your First Exec Meeting
 This is a super exciting part of your year. It can be fun to have some icebreakers and some snacks if everyone hasn't met before!
@@ -29,7 +29,7 @@ Some really important things to cover in this meeting are:
     *   What do we want to achieve for this year?
     *   How is this going to be measured? (e.g., Feedback forms, Running particular events for the year, Attendance at events)
 
-(See also: [Executive Meetings](./running-meetings/executive-meetings.md))
+(See also: [Executive Meetings]({% ./running-meetings/executive-meetings.md %}))
 
 ## Creating a Timeline of Events and Key Deadlines
 *   Create a timeline for the year.
@@ -43,11 +43,11 @@ It's pretty normal for some positions not to be filled at AGMs, and it's importa
 
 ## 5. Reaffiliations
 Each year, your society will need to reaffiliate with ANUSA to be eligible for funding. This process can be a bit tricky because sometimes there's some governance involved. Please read up on Affiliations and get your form in early, because it can take a while.
-(See also: [Reaffiliation Process](./reaffiliation-process.md))
+(See also: [Reaffiliation Process]({% ./reaffiliation-process.md %}))
 
 ## 6. Market Day (O-Week)
 Market Day happens on Wednesday of O-Week, and it's pretty exciting to have lots of people chat to you about what your society does. It's a great way to put yourself out there and engage with potential new members. You should organise a roster of your executive so that people have short shifts. Bring some fun merch and provide an easy way for people to sign up, like a QR Code. When collecting information, please grab people's names, student ID and email address, so you have a way to contact them. You will be contacted about Market Day by the ANUSA Clubs Team.
-(See also: [Market Day Guide](../../event-management/market-day-guide.md))
+(See also: [Market Day Guide]({% ../../event-management/market-day-guide.md %}))
 
 ## 7. Attending Trainings
 The Clubs Officer will run training sessions for club executives, and these are a super useful way to get to know a little bit more about what you need to be doing in your role, so keep an eye out for when these will occur! Your Executive will need to attend clubs training annually to be eligible to receive funding each year.
@@ -57,7 +57,7 @@ The Clubs Committee, chaired by the Clubs Officer, is a non-mandatory meeting fo
 
 ## 9. Running Events
 This is the most exciting part of running a club, events are where your club actually comes together! Events can range from serious to entirely social and should be reflective of your club's unique purpose. Every club should strive to innovate with their events. Running exciting and fresh activities will drive people to join up and keep your clubs culture alive. Consider what your members would love to do and if all else fails, Badger & Co is a popular location for all clubs.
-(See also: [Event Management Section](../../event-management/))
+(See also: [Event Management Section]({% ../../events/index.md %}))
 
 ## 10. Checking in with your Timeline
 It's a good idea to review your initial timeline at all exec meetings, or at least once a term to check whether you are sticking to your schedule.
@@ -67,15 +67,15 @@ Your club's email should be checked regularly, this is how ANUSA communicates im
 
 ## 12. Bush Week Market Day
 This is quite similar to the O-Week Market Day, except it can be tricky to find enough people to be on the stall when people have class. Learn from what you did on market day, you should hit your stride now!
-(See also: [Market Day Guide](../../event-management/market-day-guide.md))
+(See also: [Market Day Guide]({% ../../events/market-day-guide.md %}))
 
 ## 13. Ball Season (if applicable)
 If your club is planning on running a Ball or Special Event, this takes quite a lot of organisation, time and financial planning. Make sure you support the exec members handling this, and allocate the workload fairly!
 
 ## 14. Annual General Meeting (End of Year)
 Your AGM might happen at a different time of year, depending on your constitutional requirements. You'll need to organise this in advance, and advertise it to your members. You'll deliver a report to your members detailing what you've done for the year.
-(See also: [General Meetings](./running-meetings/general-meetings.md))
+(See also: [General Meetings]({% ./running-meetings/general-meetings.md %}))
 
 ## 15. Handover (End of Year)
 Now that your year has ended it's great to continue contributing by helping the new people start their year well. This is by far the most you will do to help your club or society succeed in the future!
-(See also: [How to Handover](./handover-guide.md))
+(See also: [How to Handover]({% ./handover-guide.md %}))

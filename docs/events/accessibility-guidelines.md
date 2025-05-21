@@ -88,7 +88,7 @@ description: Comprehensive guidelines for ANU clubs on how to make events, activ
     ```
     [Image description: A pale yellow poster, with a stylised sunflower border. At the top is the Spoons Week Logo, which consists of the text "spoons week 2024", and a purple-handled spoon with the DSA logo on the scoop bit. Title reads "Spoons Week Special!" and text below reads "The wonderful Kay (@kaygan.forest) has designed beautiful colouring-in sheets for our Crafternoon. Hope to see you there!". Below the text, there is a stylised image of art supplies, including two crayons, a paintbrush, a set of watercolour pans, and a palette with paint on it. End description.]
     ```
-    *(Image of "Spoons Week Special!" poster would ideally be here if you were embedding images, but the text description is key)*
+    ![DSA Example]({% ../../images/events/dsa_caption.png %})
 
 ### Social Media continued
 *   Similarly, this should be done for emojis like this: 👋 `[wave emoji]`
@@ -96,12 +96,12 @@ description: Comprehensive guidelines for ANU clubs on how to make events, activ
 *   Remember to put trigger warnings on social media posts when needed.
 *   **Alt Text:** Provide alternative text for social media – this allows screen reader users to understand the visual content.
     *   Alternative text or alt text is a visually hidden description of what appears in an image.
-    *   View a guide on [how to add alt text on social media here](#) *(Link placeholder)*.
-*   Give graphics visible colour contrasts, you can [check the contrast ratio of colours here](#) *(Link placeholder)*.
+    *   View a guide on [how to add alt text on social media here](https://www.perkins.org/how-to-add-alt-text-on-social-media/).
+*   Give graphics visible colour contrasts, you can [check the contrast ratio of colours here](https://webaim.org/resources/contrastchecker/).
     *   You should strive for a contrast ratio of at least 4.5 : 1.
 *   Lecture or conference? Digital versions of your physical handouts and vice versa. Use word documents as well as PDFs.
 *   Captions - Remember to add captions to videos! Auto-captions are easy to add; however, make sure to check their accuracy and if they aren't accurate, make sure to edit them.
-*   View a great [guide to accessible social media here](#) *(Link placeholder)*.
+*   View a great [guide to accessible social media here](https://www.and.org.au/articles.php/43/how-to-write-more-accessible-social-media-posts).
 *   Communicate honestly about the accessibility of your event. If your event is not going to be accessible to particular needs (it will be very loud, there will be alcohol, there are stairs to the venue) make sure these aspects are communicated in the event description so that people are able to make informed choices about attending.
 *   Always encourage contact by anonymous form, email or call for attendee's further concerns.
 
@@ -130,7 +130,7 @@ description: Comprehensive guidelines for ANU clubs on how to make events, activ
 *   Providing copies of presentations to AUSLAN interpreters or live captioners prior to the event to ensure they can correctly spell names, places and specific terminology.
 *   Book Auslan interpreters as needed, and reserve seats in front to enable a clear view for people who are deaf and hard of hearing.
 *   Provide space at the front of the room for Auslan interpreters (if required). Ensure interpreters are positioned in a well-lit area and clearly visible to the audience.
-*   Link to sign language interpreters and how to positon them at events. *(This seems to imply a link should exist here)*
+*   Link to sign language interpreters and how to position them at events. 
 
 ## Who can help?
 *   The Disabilities Officer/s whom you can email at [sa.disabilities@anu.edu.au](mailto:sa.disabilities@anu.edu.au)
