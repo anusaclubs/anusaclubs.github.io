@@ -88,7 +88,7 @@ description: Comprehensive guidelines for ANU clubs on how to make events, activ
     ```
     [Image description: A pale yellow poster, with a stylised sunflower border. At the top is the Spoons Week Logo, which consists of the text "spoons week 2024", and a purple-handled spoon with the DSA logo on the scoop bit. Title reads "Spoons Week Special!" and text below reads "The wonderful Kay (@kaygan.forest) has designed beautiful colouring-in sheets for our Crafternoon. Hope to see you there!". Below the text, there is a stylised image of art supplies, including two crayons, a paintbrush, a set of watercolour pans, and a palette with paint on it. End description.]
     ```
-    ![DSA Example]({% ../../images/events/dsa_caption.png %})
+    ![DSA Example]({% link ../../images/events/dsa_caption.png %})
 
 ### Social Media continued
 *   Similarly, this should be done for emojis like this: 👋 `[wave emoji]`
