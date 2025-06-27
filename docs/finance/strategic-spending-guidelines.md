@@ -2,7 +2,7 @@
 layout: default
 title: 2025 Yearly Strategic Spending Guidelines
 parent: Finance
-nav_order: 2 # After Basic Bookkeeping, before Sponsorship Guide
+nav_order: 3 
 description: Official ANUSA guidelines for club spending, grant applications, and funding caps for the year 2025.
 ---
 

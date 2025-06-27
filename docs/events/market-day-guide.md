@@ -2,6 +2,7 @@
 layout: default
 title: Market Day
 parent: Events
+draft: True
 #grand_parent: General Resources
 nav_order: 3 # Adjust as needed, perhaps after a general event planning checklist
 description: How Market Day works

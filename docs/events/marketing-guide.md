@@ -7,84 +7,101 @@ nav_order: 2 # Adjust as needed, perhaps after a general event planning checklis
 description: Tips and strategies for effectively marketing your ANU club and events to gain members and boost attendance.
 ---
 
-# Marketing at ANU
+# Marketing Your Club at ANU
 
-Marketing is really important for clubs on campus to gain new members and to get a really good attendance at the events that you work so hard to organise! Marketing can seem like extra work, but it is vital to the success of the event you've worked so hard on. Marketing can really make or break your event, especially if you are relying on ticket sales for financial success. If no one knows your event is on they can't attend and marketing can be a super fun way to get creative!
+Effective marketing is essential for a thriving club. It's how you recruit new members, drive attendance to the events you work so hard on, and build a strong presence on campus. Good marketing can make or break an event, especially if you rely on ticket sales. This guide will walk you through building a strategy, choosing your platforms, and creating accessible, engaging content.
 
-You should make sure that you market your club in as many places as possible to attract new members as well as marketing individual events. If you can combine these, your club will thrive!
+> **Key Principles for Success**
+>
+> *   **Start Early:** Finalise your event details and begin promotion as soon as possible.
+> *   **Be Clear:** Give potential attendees all the information they need to decide to come.
+> *   **Have a Call to Action:** Make your ticket or registration link visible and accessible everywhere.
+> *   **Amplify Your Message:** Encourage friends, members, and collaborators to share your content.
 
-## Key Tips to Success
-*   Finalise logistics for your event as early as possible! This should include as much information as your attendees will need on the day. This will help them decide if they actually want to go. If they don't have enough information, they'll avoid committing.
-*   Start marketing as early as possible, this can include by publishing your event on Facebook and ordering posters.
-*   Define a clear target audience.
-*   Market as widely as you can by having as many friends and attendees sharing the event.
-*   Emphasise what makes your event unique.
-*   Ramp up your marketing the closer you get to your event by doing a countdown!
-*   If you have a ticket or registration link make sure you put that in as many places as you can.
+---
 
-## Branding
-Choosing a theme for your club colours or a specific theme for an event is really important to have consistent branding. If you have a specific logo or colours for your club, people will be able to recognise that it is your club that is running lots of different events. The more consistent your branding, the more likely people will recognise seeing it from different platforms. This 'image' can help sell your event as fun and unique. If you create a theme it makes doing graphics or decorating the event much more cohesive.
+## Part 1: Building Your Marketing Strategy
 
-## Collaborations
-It can be super fun to ask other clubs to advertise your events for you, and it can be a nice idea to offer to advertise their events too!
+Before you create a single poster or social media post, take a moment to plan your approach.
 
-## Sounding Approachable
-This will depend on the tone of the event and the audience you are seeking. You could often try using lots of emojis, creating memes or trying to do some cool graphics because these are very eye-catching.
+### 1. Define Your Brand and Theme
+A consistent brand makes your club instantly recognisable.
+*   **Club Branding:** Use your club's logo and colours consistently across all platforms. The more people see your brand, the more they will recognise your events.
+*   **Event Theming:** Creating a specific theme for a major event can make your marketing more cohesive and exciting. A theme helps guide your graphics, decorations, and promotional language.
 
-## Accessibility
-If you do use emojis, please add a description for the emojis in brackets. It's also very helpful to describe pictures and put any text in a picture written on the post as well so that text-to-speech readers can pick them up.
+### 2. Know Your Audience and Your Unique Appeal
+*   **Target Audience:** Are you trying to reach first-years, postgraduate students, or students from a specific academic college? Knowing your audience helps you choose the right platforms and tone.
+*   **What Makes You Unique?** Is your event the biggest of its kind? The only one with a specific theme? Does it feature a special guest? Emphasise your unique selling points in all marketing.
 
-You should explain how accessible your event is in the description because this will help people decide to go. There is a template you should add into your event description below:
+### 3. Set Your Tone and Collaborate
+*   **Find Your Voice:** Your tone should match your event and audience. Whether you use lots of emojis and memes or maintain a more formal style, keep it consistent.
+*   **Collaborate with Other Clubs:** Reach out to other clubs to cross-promote events. It's a fantastic way to reach a wider, like-minded audience.
 
-{: .note .info }
-> At (Name of club) we strive to make our events as accessible as possible. There will be (food options), (based on the dietary requirements you provide when you purchase your ticket). There is (parking at event) and (transport options to event). The event venue is (accessible or not accessible), with (accessible and or unisex toilets) at the venue. If you have any accessibility requirements, please don't hesitate to email (Title and or Name of person) at (email address).
+---
 
-## Advertising Alcohol
-ANU has rules about how liquor can be discussed and consumed which is in the ANU Liquor Statute. You can't advertise drinking alcohol as the primary purpose of your event, which must be reflected in all of your marketing. You also can't advertise the sale of alcohol at your event if it is on campus, unless you have approval from the Director of Functions and Services.
+## Part 2: Essential Guidelines and Responsibilities
 
-## Marketing Platforms
+### Accessibility in Marketing
+Ensuring your marketing is accessible is crucial to making everyone feel welcome.
 
-### Electronic Marketing
+*   **For screen readers:** When using images, always include the text from the image in the post's main body. If you use emojis, add a text description in brackets, e.g., "party popper emoji 🎉".
+*   **Provide an Accessibility Statement:** Include a template like the one below in all your event descriptions. This transparency helps people decide if they can comfortably attend.
 
-**Using Facebook**
-You can use Facebook by advertising on your page and you can make an event. This can have as many details as you need to give attendees, which will make running the event on the day very easy.
+> **Accessibility Statement Template**
+>
+> At [Club Name], we strive to make our events as accessible as possible.
+>
+> *   **Food and Drink:** There will be [e.g., vegetarian, vegan, gluten-free] options available, based on dietary requirements provided during registration.
+> *   **Venue:** The event venue is/is not wheelchair accessible. There are/are not accessible and/or gender-neutral toilets at the venue.
+> *   **Transport and Parking:** The venue is close to [public transport options]. Parking is available at [parking location].
+> *   **Contact:** If you have any accessibility requirements or questions, please don't hesitate to email [Name/Position] at [club email address].
 
-**Emailing Club Members**
-If your club collects the email addresses of your society you can consider sending out newsletter style emails advertising your society and your events. This should have lots of links to future events or celebrate the success of past events.
+### Advertising Events with Alcohol
+The **ANU Liquor Statute** governs how alcohol can be discussed and consumed. The primary purpose of your event cannot be the consumption of alcohol, and this must be reflected in all marketing. You cannot advertise the sale of alcohol at an on-campus event without approval from the Director of Functions and Services.
 
-**Other Groups to Consider Contacting:**
-*   ANU Schmitposting - you can only post about your event once on ANU Schmitposting
-*   Any other Facebook groups that have a clear link to your target audience
-*   Faces of ANU
-*   On Campus
-*   Events at ANU
-*   ANU Schmitposting (reiteration, likely refers to general posting vs. specific event link)
-*   ANUSA
-*   PARSA
-*   Halls of Residence
+---
 
-**Academic Colleges and Courses:** If you are a discipline club you could consider asking your Academic College, School, or Centre to help advertise your event. If there are any relevant courses to your society you could consider contacting the relevant course convenor/lecturer to let you advertise your event!
+## Part 3: Choosing Your Platforms
 
-**Any directly relevant ANUSA Departments:** (Indigenous Department, Queer Department, Women's Department, Disability Department, Environmental Collective, ANU International Students' Department and ANU BIPOC Department)
+A multi-platform approach is the most effective way to reach the entire campus community.
+
+### Digital Marketing
+
+*   **ANUSA Clubs Calendar:** Create an event through your club's Rubric account, and it will automatically appear on the official [ANUSA Clubs Calendar](https://anusa.com.au/clubs/events/). This is a crucial step for reaching a broad audience.
+*   **Facebook:** Create a Facebook event page with all the necessary details. It's an easy way to consolidate information and track interest.
+*   **Email Newsletters:** If you have a member mailing list, send out regular newsletters celebrating past events and promoting upcoming ones.
+*   **Social Media Groups:**
+    *   ANU Schmidtposting (you may only post once per event)
+    *   Halls of Residence pages
+    *   Other groups relevant to your target audience
+*   **Institutional Promotion:**
+    *   **ANUSA Departments:** Contact relevant departments for promotion (e.g., Queer\*, Women's, BIPOC, International Students', etc.).
+    *   **Academic Colleges:** If you are a discipline-specific club, ask your College, School, or a relevant course convenor to advertise your event in their newsletters or lectures.
 
 ### Physical Marketing
-*   Using posters can be effective for large-scale events. Lots of postering in key spaces on campus can be a really good way of getting the word out. It's a great way of advertising, but it's often overlooked!
-*   Creating merchandise for your club for people to use (like stickers) can be effective.
-*   Investing in a banner to bring to events can help people recognise your club.
+Don't overlook the power of physical advertising on a busy campus!
 
-### Marketing at Market Day
-Market Day in O-Week and Bush Week are really good opportunities for interested people to ask about being involved in your club. Some stall decorating ideas that will help you market more effectively you can consider are:
-*   Banners
-*   Pamphlets for people to take with them
-*   Informational posters to put on your table
-*   If your society has merchandise, your members manning the stall could wear it
-*   Your society could also consider giving stickers or membership cards to members which helps promote your society
-*   Some societies are able to demonstrate what their society does at their market day stall which can be extra engaging for potential members
+*   **Posters:** Lots of postering in key spaces on campus can be a really good way of getting the word out. It’s a great way of advertising, but it’s often overlooked!
+*   **Merchandise:** Creative merch like stickers can serve as walking advertisements for your club.
+*   **Banners:** A professional pull-up banner is a great investment. Bring it to all your events to increase brand recognition.
 
-## Graphics Software
-There are lots of different software that you can use to help you market your event. Some you can consider include:
-*   Canva (very easy)
-*   Adobe InDesign
-*   Inkscape
+---
 
-ANU has lots of software you can use for free on campus or get reduced subscriptions for which you can look at from the ANU website.
+## Part 4: Case Study: Marketing at Market Day
+
+O-Week and Bush Week Market Days are your single biggest recruitment opportunities of the year.
+
+#### Making Your Stall Stand Out:
+*   **Visuals:** Use a large, clear banner and informational posters on your table. Have your stall volunteers wear club merchandise.
+*   **Information:** Prepare pamphlets or flyers with key information for people to take with them.
+*   **Engagement:** If possible, demonstrate what your club does (e.g., a music club could have members playing instruments).
+*   **Giveaways:** Stickers, membership cards, or other small freebies are a great way to make a memorable impression.
+
+---
+
+## Part 5: Tools of the Trade
+
+You don't need to be a graphic design expert to create great marketing materials.
+
+*   **Canva:** The most user-friendly and popular option for creating social media graphics and posters. Highly recommended for all clubs.
+*   **Adobe InDesign / Inkscape:** More powerful tools for those with more design experience.

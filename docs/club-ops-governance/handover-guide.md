@@ -12,6 +12,8 @@ For some of you, it will be a relief to fling off this extra overcommitment and 
 
 Best practice for handovers is to write them as you go through your year, as one can be surprised at how much you can forget! It's also good to give access to all previous documents one worked on over the course of the year because this can also help paint a picture. You should give access to a written document straight after the AGM for the new club executive to read and offer to meet in person to answer any questions they may have. But, if you don't have time for that, anything is better than nothing.
 
+> Download our Handover Checklist [here](../../images/club-ops-governance/Clubs-Handover-Checklist-2025.pdf). Completing this checklist and applying for the Handover Grant will net your club $50.
+
 ## Role Summary
 Start with why the role exists, and explain it like the person has no prior knowledge of the role, and briefly outline a list of essential duties to this role. It can be very useful to put a rough expectation of the time commitment here.
 
