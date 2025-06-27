@@ -10,7 +10,7 @@ description: A guide to club bookkeeping, including tracking expenses, petty cas
 
 Bookkeeping isn't too tricky, you just have to keep on top of it! In general, you'll need to do three things:
 *   Make a budget for the year
-*   Make a budget for any larger event you're running (check out Funding Balls and Special Events)
+*   Make a budget for any larger event you're running <!-- (check out Funding Balls and Special Events) -->
 *   Keep track of everything your club is spending money on!
 
 ## Keeping Track of Bookkeeping
@@ -28,7 +28,7 @@ Bookkeeping isn't too tricky, you just have to keep on top of it! In general, yo
 *   Note that if you are a larger club, you should check that you're not going over the funding cap.
 *   If you have other sources of income such as sponsorship or membership you should track this carefully.
 *   You should also write in what you will be spending and when you will be spending it.
-*   It's important that you have enough money in your account to cover expenses, as Clubs Council grants come after the event, so you don't want your executive to have to pay for items and wait for reimbursement from Clubs Council.
+*   It's important that you have enough money in your account to cover expenses, as clubs grants come after the event, so you don't want your executive to have to pay for items and wait for reimbursement from ANUSA.
 *   Writing a good budget can take a lot of time to do properly.
 *   But, if you write a good budget, this can be handed on for future years, which can be an awesome contribution to the club!
 
@@ -65,14 +65,14 @@ It's really important when considering running an event, working out whether it 
 
 | Income      | Amount ($) | Expenditure       | Amount ($) |
 | :---------- | :--------- | :---------------- | :--------- |
-| CC grant    | 60         | Paper             | 10         |
+| ANUSA grant | 60         | Paper             | 10         |
 |             |            | Crayons           | 25         |
 |             |            | Snacks            | 25         |
 |             |            | Venue (on campus) | 0          |
 | **Total**   | **60**     | **Total**         | **60**     |
 
 {: .note }
-*In this budget, the total CC grant was calculated based on the club obtaining an Ordinary Events Grant. The grant lets the club have $6 per person who attends, at the current rate, which is subject to change. If the attendance is 10 people, then the society is eligible for $60. Please be careful of losing money if you overestimate your attendance!*
+*In this budget, the total ANUSA grant was calculated based on the club obtaining an Ordinary Events Grant. The grant lets the club have $8 per person who attends, at the current rate, which is subject to change. If the attendance is 10 people, then the society is eligible for up to $80. Please be careful of losing money if you overestimate your attendance!*
 
 ## Troubleshooting
-It is difficult to give general troubleshooting advice, as every difficult financial situation is going to be different. The most important thing to remember is if you think your club might have a money problem, no matter how big or small it is, you should talk to the clubs council executive as early as you possibly can. We're here to help you, and almost every big financial problem can be fixed, or at least significantly mitigated, if you get help with it sooner rather than later. Having said that, you should also feel very free to reach out after having put it off, we will still just want to get to the best outcome for you and your club. When you do reach out, it is going to be easiest and quickest if you provide us with as much relevant information as you can.
+It is difficult to give general troubleshooting advice, as every difficult financial situation is going to be different. The most important thing to remember is if you think your club might have a money problem, no matter how big or small it is, you should talk to the Clubs team as early as you possibly can. We're here to help you, and almost every big financial problem can be fixed, or at least significantly mitigated, if you get help with it sooner rather than later. Having said that, you should also feel very free to reach out after having put it off, we will still just want to get to the best outcome for you and your club. When you do reach out, it is going to be easiest and quickest if you provide us with as much relevant information as you can.
