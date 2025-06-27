@@ -3,7 +3,7 @@ description: Resources for ANU Student Clubs and Societies
 theme: just-the-docs
 
 url: https://anusaclubs.github.io
-logo: ./images/general/anusa-cropped.png
+logo: "/images/general/anusa-cropped.png"
 
 
 aux_links:
