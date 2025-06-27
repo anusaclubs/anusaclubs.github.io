@@ -71,8 +71,8 @@ To avoid being incorrectly re-categorised, you must frame your event clearly as 
 
 Even when your base venue hire is free under Category 2, you may still be charged for additional services required for your event. These are not venue hire fees and are generally legitimate. They include:
 
-*   **Extra Cleaning Fees:** Required if you have catering, especially in teaching spaces where food and drink are not normally permitted.
-*   **Venue Supervisor Fees:** Often required for events that happen in the evening or on weekends.
+*   **Extra Cleaning Fees:** may be required if you have catering in teaching spaces where food and drink are not normally permitted.
+*   **Venue Supervisor Fees:** Often required for larger events that happen in the evening or on weekends.
 *   **Security Fees:** If your event requires security personnel.
 
 > ## What to Do If You Receive a Quote for Venue Hire
