@@ -19,7 +19,7 @@ There are three main ways you can contribute:
 This method is perfect for simple content changes, like fixing typos, updating links, or rewriting a paragraph. It all happens in your web browser.
 
 1.  **Find the page:** Navigate to the page you want to edit on the [ANUSA Clubs and Societies Resources Portal website](https://anusaclubs.github.io/).
-2.  **Go to the GitHub file:**You can find the corresponding file in the [GitHub repository](https://github.com/anusaclubs/anusaclubs.github.io). The files for the website pages are located in [docs](https://github.com/anusaclubs/anusaclubs.github.io/tree/main/docs)
+2.  **Go to the GitHub file:** You can find the corresponding file in the [GitHub repository](https://github.com/anusaclubs/anusaclubs.github.io). The files for the website pages are located in [docs](https://github.com/anusaclubs/anusaclubs.github.io/tree/main/docs).
 3.  **Click the pencil icon:** In the top right corner of the file view on GitHub, you'll see a pencil icon with the tooltip "Edit this file". Click it.
 4.  **Make your changes:** An in-browser text editor will open. Make the changes you want to the text.
 5.  **Propose the change:** Once you're done, scroll to the bottom of the page.
