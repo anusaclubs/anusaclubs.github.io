@@ -31,4 +31,4 @@ The ANUSA Clubs & Societies Resource Portal is an open-source project aimed at p
 ### Contributing
 This portal is an open-source project, and contributions from the community are always welcome! Please see the `README` in our [Github repository](https://github.com/anusaclubs/anusaclubs.github.io) for more information on how you can help.
 
-We are grateful to everyone who has helped build this resource. You can view a full list of contributors on our **[Contributors Page]({{ '/contributors/' | relative_url }})**.
+We are grateful to everyone who has helped build this resource. You can view a full list of contributors on our **[Contributors Page](./docs/contributors.html)**.
