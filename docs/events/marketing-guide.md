@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Marketing Guide for Clubs
+title: Marketing Guide
 parent: Events
 #grand_parent: General Resources
-nav_order: 2 # Adjust as needed, perhaps after a general event planning checklist
+nav_order: 3
 description: Tips and strategies for effectively marketing your ANU club and events to gain members and boost attendance.
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: Club Accessibility Guidelines
 parent: Events
 #grand_parent: General Resources
-nav_order: 2 # After Acknowledgement of Country
+nav_order: 1
 description: Comprehensive guidelines for ANU clubs on how to make events, activities, and communications accessible to all students.
 ---
 

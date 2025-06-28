@@ -2,7 +2,7 @@
 layout: default
 title: ANUSA Tools
 parent: Club Operations & Governance
-nav_order: 1
+nav_order: 8
 description: Tools developed by ANUSA to help clubs in governance.
 ---
 

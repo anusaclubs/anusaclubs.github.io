@@ -4,13 +4,13 @@ title:  Hosting Functions on Campus
 parent: Events
 draft: True
 #grand_parent: General Resources
-nav_order: 3 # Adjust as needed, perhaps after a general event planning checklist
+nav_order: 2
 description: Dealing with Functions on Campus
 ---
 
 # Working with Functions on Campus
 
-Planning an event at ANU often involves more than just booking a room. For many events, especially those that are outdoors, large, or involve food or alcohol, you will need to work with the university's **Functions on Campus (FoC)** team.
+Planning an event at ANU often involves more than just booking a room. For nearly all events, especially those that are outdoors, large, or involve food or alcohol, you will need to work with the university's **Functions on Campus (FoC)** team.
 
 FoC is the central university authority responsible for ensuring all events on campus are safe, compliant, and well-managed. This guide will walk you through when you need to contact them, how the process works, and critically, how to navigate venue hire fees.
 
@@ -18,8 +18,10 @@ FoC is the central university authority responsible for ensuring all events on c
 
 ### When Do I Need a Function Application?
 
-You are required to complete an "Application to hold a function on campus" essentially whenever you hold an event that is a bookable venue on campus. This includes Marie Reay, outdoor spaces, and similar.
-However, this does not include Badger & Co, coffee shops, or other commercial venues on campus.
+You are required to complete an "Application to hold a function on campus" essentially whenever you hold an event in a bookable venue on campus. This includes Marie Reay, outdoor spaces, lecture theatres, and similar.
+However, this does not include Badger & Co, coffee shops, or other commercial venues on campus. Events at these venues do not need an FoC.
+
+> Top tip: if your event is recurring, you only need to submit the one FoC. Set your start date as the first event and your end date as the last event in the series, and make a note of it in your application.
 
 ---
 

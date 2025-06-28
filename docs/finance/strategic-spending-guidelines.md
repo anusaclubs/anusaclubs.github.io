@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2025 Yearly Strategic Spending Guidelines
+title: Strategic Spending Guidelines
 parent: Finance
 nav_order: 3 
 description: Official ANUSA guidelines for club spending, grant applications, and funding caps for the year 2025.

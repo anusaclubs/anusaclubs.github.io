@@ -2,7 +2,7 @@
 layout: default
 title: How to Handover
 parent: Club Operations & Governance
-nav_order: 4 # After meetings, before reaffiliation
+nav_order: 7
 description: A comprehensive guide for outgoing executives on preparing and conducting effective handovers to the new team.
 ---
 

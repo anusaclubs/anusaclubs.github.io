@@ -2,7 +2,7 @@
 layout: default
 title: Affiliation and Re-affiliation
 parent: Club Operations & Governance
-nav_order: 5 
+nav_order: 2
 description: How to reaffiliate
 ---
 

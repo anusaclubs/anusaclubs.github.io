@@ -2,7 +2,7 @@
 layout: default
 title: Clubs Committee
 parent: Club Operations & Governance
-nav_order: 2
+nav_order: 9
 description: Information on the ANUSA Clubs Committee and its meeting minutes.
 ---
 

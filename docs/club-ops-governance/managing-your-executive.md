@@ -2,7 +2,7 @@
 layout: default
 title: Managing an Executive
 parent: Club Operations & Governance
-nav_order: 2 # After Planning Your Year
+nav_order: 4
 description: Guidance on roles, expected workloads, and structuring your club's executive team effectively.
 ---
 

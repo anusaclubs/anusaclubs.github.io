@@ -2,7 +2,7 @@
 layout: default
 title: Building and Hosting Websites
 parent: Club Operations & Governance
-nav_order: 1
+nav_order: 6
 description: A guide on building and hosting websites for clubs and societies.
 ---
 

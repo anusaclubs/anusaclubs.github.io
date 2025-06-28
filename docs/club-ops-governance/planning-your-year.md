@@ -2,7 +2,7 @@
 layout: default
 title: Planning Your Year
 parent: Club Operations & Governance
-nav_order: 1
+nav_order: 3
 description: A step-by-step guide for new club executives on planning their term, from AGM to handover.
 ---
 
