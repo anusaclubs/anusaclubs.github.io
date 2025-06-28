@@ -15,7 +15,7 @@ All funding applications are managed through the **Rubric platform**. This guide
 > **The Golden Rules of Funding**
 >
 > 1.  **The Regulations are Law:** This guide summarises the rules for convenience. The **[ANUSA Clubs Regulations](link-to-your-regulations-document)** are the definitive source of truth. If there is any inconsistency, the Regulations always prevail.
-> 2.  **Check the Spending Guidelines:** Specific rules about spending caps and priorities for the current year are in the **[ANUSA Clubs Yearly Strategic Spending Guideline](link-to-your-spending-guidelines-document)**. You **must** read this document before submitting an application.
+> 2.  **Check the Spending Guidelines:** Specific rules about spending caps and priorities for the current year are in the **[ANUSA Clubs Yearly Strategic Spending Guideline](./strategic-spending-guidelines.html)**. You **must** read this document before submitting an application.
 
 ---
 

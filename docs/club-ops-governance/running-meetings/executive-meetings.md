@@ -41,21 +41,21 @@ Minutes are a record of the meeting, which are important so you can look back on
 
 ### Example: Extract from President's Report Minutes
 
-**Crayon Appreciation Society Executive Meeting 8/10/2024**
-
-**Item 2: President's Report (Discussion Leader: President)**
-
-*   2.1. Have been working on organising the first Crayon Society Social Drawing Event, and have organised a venue and completed a Functions on Campus Form. Will buy stationary for the event this week.
-    *   **Action item for President to buy Stationary**
-*   2.2. Re-affiliation to Clubs Council has been officially approved!
-*   2.3. Will be working with the Treasurer to plan a Crayon Appreciation Ball - hoping to hold this at Old Parliament House.
-    *   Treasurer: would Dining Society be interested in a potential Crayon Appreciation Dinner?
-    *   President: good idea, will reach out to them.
-
-Motion to accept President's report
-*   Mover: President
-*   Seconder: Secretary
-*   Passes unanimously
+> **Crayon Appreciation Society Executive Meeting 8/10/2024**
+> 
+> **Item 2: President's Report (Discussion Leader: President)**
+> 
+> *   2.1. Have been working on organising the first Crayon Society Social Drawing Event, and have organised a venue and completed a Functions on Campus Form. Will buy stationary for the event this week.
+>     *   **Action item for President to buy Stationary**
+> *   2.2. Re-affiliation to ANUSA has been officially approved!
+> *   2.3. Will be working with the Treasurer to plan a Crayon Appreciation Ball - hoping to hold this at Old Parliament House.
+>     *   Treasurer: would Dining Society be interested in a potential Crayon Appreciation Dinner?
+>     *   President: good idea, will reach out to them.
+> 
+> Motion to accept President's report
+> *   Mover: President
+> *   Seconder: Secretary
+> *   Passes unanimously
 
 ## Chairing
 Chairing just means that you run the meeting. In executive meetings it's nice to let discussions flow, because if meetings are too formal they can be a bit stilted. But, some good tips are:
