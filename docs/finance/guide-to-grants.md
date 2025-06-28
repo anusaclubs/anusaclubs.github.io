@@ -37,7 +37,7 @@ Applying for a grant is a straightforward process managed entirely online.
 Before you apply, it's crucial to understand these core principles.
 
 #### Prospective vs. Retrospective Funding
-All grants are paid out **retrospectively** by default. This means your club will need to cover the cost of an event or activity first, and then apply for reimbursement from ANUSA. While some grants may be applied for **prospectively** (before the event takes place), payment is still made after the event unless an exemption is granted.
+All grants are paid out **retrospectively** by default. This means your club will need to cover any costs first, and then apply for reimbursement from ANUSA. While some grants are applied for **prospectively** (before the event/expenditure takes place), payment is still made retrospectively unless an exemption is granted.
 
 #### SSAF-Funded vs. Sponsored Pool Grants
 *   **SSAF-Funded Grants:** The majority of grants (Events, Operational, etc.) come from the SSAF pool. There is a **Funding Limit** on the total amount of SSAF funding your club can receive each year.

@@ -94,7 +94,7 @@ O-Week and Bush Week Market Days are your single biggest recruitment opportuniti
 #### Making Your Stall Stand Out:
 *   **Visuals:** Use a large, clear banner and informational posters on your table. Have your stall volunteers wear club merchandise.
 *   **Information:** Prepare pamphlets or flyers with key information for people to take with them.
-*   **Engagement:** If possible, demonstrate what your club does (e.g., a music club could have members playing instruments).
+*   **Engagement:** If possible, demonstrate what your club does (e.g., an art club could have art that members have made on display).
 *   **Giveaways:** Stickers, membership cards, or other small freebies are a great way to make a memorable impression.
 
 ---
@@ -103,5 +103,6 @@ O-Week and Bush Week Market Days are your single biggest recruitment opportuniti
 
 You don't need to be a graphic design expert to create great marketing materials.
 
-*   **Canva:** The most user-friendly and popular option for creating social media graphics and posters. Highly recommended for all clubs.
-*   **Adobe InDesign / Inkscape:** More powerful tools for those with more design experience.
+*   **Canva:** A user-friendly and popular option for creating social media graphics and posters. Highly recommended for all clubs. The base version of Canva is free, but you can apply for a free Pro account if the club is a registered NFP. This gives you access to more templates and design elements. See [Canva for Nonprofits](https://www.canva.com/canva-for-nonprofits/) for details.
+*   **Inkscape:** A free, open-source vector graphics editor that can be used for more complex designs. See [Inkscape](https://inkscape.org/) for details.
+*   **Adobe Creative Cloud:** If a club member has access to Adobe products, they can use tools like Photoshop, Illustrator, and Premiere Pro for graphic design, video editing, and more. Staff (including casual tutors) can get a free license through the [ANU IT Service Desk](https://services.anu.edu.au/information-technology/software-systems/adobe-creative-cloud), although this is not available to students who are not employed by the university.
