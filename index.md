@@ -24,3 +24,11 @@ Whether you're a new executive member learning the ropes or an experienced leade
     <p>Plan and execute successful events. Find checklists, risk assessment info, marketing strategies, and booking guidance.</p>
   </div>
 </div>
+
+## About the Project
+The ANUSA Clubs & Societies Resource Portal is an open-source project aimed at providing comprehensive resources for student clubs and societies at the Australian National University (ANU). It is maintained by the ANUSA Clubs Team, with contributions from club executives and the wider ANU community.
+
+### Contributing
+This portal is an open-source project, and contributions from the community are always welcome! Please see the `README` in our [Github repository](https://github.com/anusaclubs/anusaclubs.github.io) for more information on how you can help.
+
+We are grateful to everyone who has helped build this resource. You can view a full list of contributors on our **[Contributors Page]({{ '/contributors/' | relative_url }})**.

@@ -1,174 +1,89 @@
-# just-the-docs-template
+### ANUSA Clubs and Societies Resources Portal
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+The ANUSA Clubs and Societies Resources Portal is the central source of truth for running a club at the ANU. Its goal is to be a one-stop-shop for club executives, containing all the guides, forms, templates, and key information needed to manage a club successfully.
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
+The portal is a living document, maintained by the ANUSA Clubs Team with the help of community contributors like you. By keeping it up-to-date, we ensure that every club has access to the best possible information.
 
-More specifically, the created site:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
+## Contributing
+There are three main ways you can contribute:
 
-To get started with creating a site, simply:
+1.  **The Easy Way:** Making quick edits directly on GitHub.
+2.  **The Advanced Way:** For larger changes using the full Git workflow.
+3.  **Via Email:** For those who prefer not to use GitHub.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+---
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](#hosting-your-docs-from-an-existing-project-repo).
+### Method 1: The Easy Way (Quick Edits on GitHub)
 
-After completing the creation of your new site on GitHub, update it as needed:
+This method is perfect for simple content changes, like fixing typos, updating links, or rewriting a paragraph. It all happens in your web browser.
 
-## Replace the content of the template pages
+1.  **Find the page:** Navigate to the page you want to edit on the [ANUSA Clubs and Societies Resources Portal website](https://anusaclubs.github.io/).
+2.  **Go to the GitHub file:**You can find the corresponding file in the [GitHub repository](https://github.com/anusaclubs/anusaclubs.github.io). The files for the website pages are located in [docs](https://github.com/anusaclubs/anusaclubs.github.io/tree/main/docs)
+3.  **Click the pencil icon:** In the top right corner of the file view on GitHub, you'll see a pencil icon with the tooltip "Edit this file". Click it.
+4.  **Make your changes:** An in-browser text editor will open. Make the changes you want to the text.
+5.  **Propose the change:** Once you're done, scroll to the bottom of the page.
+    *   In the first box, write a short, clear summary of your change (e.g., "Fix broken link on the events page").
+    *   You can add more detail in the larger description box below if needed.
+6.  **Click "Propose changes":** This will automatically create a "pull request" for the project maintainers to review. They will be notified of your suggestion and can merge it into the live site.
 
-Update the following files to your own content:
+---
 
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
+### Method 2: The Advanced Way (For Larger Changes)
 
-## Changing the version of the theme and/or Jekyll
+This method is best if you want to add new documents, work on structural changes, or preview your changes on your own computer before submitting them. It follows the standard "fork and pull request" workflow.
 
-Simply edit the relevant line(s) in the `Gemfile`.
-
-## Adding a plugin
-
-The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
-
-To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
-
-- Add the following to your site's `Gemfile`:
-
-  ```ruby
-  gem "jekyll-default-layout"
-  ```
-
-- And add the following to your site's `_config.yml`:
-
-  ```yaml
-  plugins:
-    - jekyll-default-layout
-  ```
-
-Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
-
-## Publishing your site on GitHub Pages
-
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
-
-    ```yaml
-    title: YOUR TITLE
-    description: YOUR DESCRIPTION
-    theme: just-the-docs
-
-    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
-
-    aux_links: # remove if you don't want this link to appear on your pages
-      Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
+#### Getting Started
+1.  **Fork the Repository:** Click the "Fork" button on the top-right of the [repository page](https://github.com/anusaclubs/anusaclubs.github.io). This creates your own copy of the project.
+2.  **Clone Your Fork:** On your computer, run the following command in your terminal (replace `YOUR-USERNAME` with your GitHub username):
+    ```bash
+    git clone https://github.com/YOUR-USERNAME/anusaclubs.github.io.git
+    ```
+3.  **Navigate to the Directory:**
+    ```bash
+    cd anusaclubs.github.io
     ```
 
-2.  Push your updated `_config.yml` to your site on GitHub.
-
-3.  In your newly created repo on GitHub:
-    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
-    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
-
-## Building and previewing your site locally
-
-Assuming [Jekyll] and [Bundler] are installed on your computer:
-
-1.  Change your working directory to the root directory of your site.
-
-2.  Run `bundle install`.
-
-3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
-
-    The built site is stored in the directory `_site`.
-
-## Publishing your built site on a different platform
-
-Just upload all the files in the directory `_site`.
-
-## Customization
-
-You're free to customize sites that you create with this template, however you like!
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-## Hosting your docs from an existing project repo
-
-You might want to maintain your docs in an existing project repo. Instead of creating a new repo using the [just-the-docs template](https://github.com/just-the-docs/just-the-docs-template), you can copy the template files into your existing repo and configure the template's Github Actions workflow to build from a `docs` directory. You can clone the template to your local machine or download the `.zip` file to access the files.
-
-### Copy the template files
-
-1.  Create a `.github/workflows` directory at your project root if your repo doesn't already have one. Copy the `pages.yml` file into this directory. GitHub Actions searches this directory for workflow files.
-
-2.  Create a `docs` directory at your project root and copy all remaining template files into this directory.
-
-### Modify the GitHub Actions workflow
-
-The GitHub Actions workflow that builds and deploys your site to Github Pages is defined by the `pages.yml` file. You'll need to edit this file to that so that your build and deploy steps look to your `docs` directory, rather than the project root.
-
-1.  Set the default `working-directory` param for the build job.
-
-    ```yaml
-    build:
-      runs-on: ubuntu-latest
-      defaults:
-        run:
-          working-directory: docs
+#### Making a Contribution
+1.  **Create a New Branch:** Always work on a new branch to keep your changes organized.
+    ```bash
+    git checkout -b your-branch-name
+    ```2.  **Make Your Edits:** Use your favorite code editor to make changes or add new files.
+3.  **(Optional) Preview Your Changes:** This website is built with Jekyll. To see what your changes will look like, you can run a local server. You'll need to have Ruby and Jekyll installed. Full instructions can be found on the [Jekyll website](https://jekyllrb.com/docs/installation/). Once installed, you can usually preview the site by running `bundle exec jekyll serve` in the project directory.
+4.  **Commit Your Changes:** Save a snapshot of your work.
+    ```bash
+    git add .
+    git commit -m "A brief description of your changes"
     ```
-
-2.  Set the `working-directory` param for the Setup Ruby step.
-
-    ```yaml
-    - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3'
-          bundler-cache: true
-          cache-version: 0
-          working-directory: '${{ github.workspace }}/docs'
+5.  **Push to Your Fork:**
+    ```bash
+    git push origin your-branch-name
     ```
+6.  **Create a Pull Request:** Go to your fork on GitHub. You will see a prompt to "Compare & pull request". Click it, review your changes, and submit the pull request for the maintainers to review.
 
-3.  Set the path param for the Upload artifact step:
+---
 
-    ```yaml
-    - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: docs/_site/
-    ```
+### Method 3: Contribute via Email
 
-4.  Modify the trigger so that only changes within the `docs` directory start the workflow. Otherwise, every change to your project (even those that don't affect the docs) would trigger a new site build and deploy.
+If you're not comfortable with GitHub, we are more than happy to make the changes for you.
 
-    ```yaml
-    on:
-      push:
-        branches:
-          - "main"
-        paths:
-          - "docs/**"
-    ```
+1.  **Draft an Email:** Open your email client and compose a message to **sa.clubsofficer@anu.edu.au**.
+2.  **Use a Clear Subject Line:** For example, "Contribution Suggestion for Resources Portal".
+3.  **Describe Your Change:** In the body of the email, please include:
+    *   **The Page:** The full URL of the page you want to see changed.
+    *   **The Change:** Clearly explain what needs to be updated, added, or removed. It's helpful if you copy and paste the text you want to change and provide the new text.
+    *   **New Resources:** If you are submitting a new resource (like a guide or template), please attach it to the email, preferably in a format like Microsoft Word or a plain text file.
 
-## Licensing and Attribution
+The Clubs Team will review your suggestion and upload it to the portal.
 
-This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
+---
 
-The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
+### A Note on Contributors
 
-----
+This portal is built by and for the ANU clubs community. We deeply appreciate every contribution, from fixing a single typo to writing a whole new guide.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+To acknowledge your effort, we maintain a list of everyone who has helped improve this resource. When your contribution (via a pull request or email) is accepted, we will add your name and a link to your GitHub profile (if applicable) to our contributors' page. Thank you for helping us make this the best resource it can be!
 
-[Jekyll]: https://jekyllrb.com
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[Bundler]: https://bundler.io
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
-[`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
-[`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
-[MIT License]: https://en.wikipedia.org/wiki/MIT_License
-[starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
-[actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
+### Questions?
+
+If you have any questions about contributing or the portal itself, please don't hesitate to email us at **sa.clubsofficer@anu.edu.au**.
