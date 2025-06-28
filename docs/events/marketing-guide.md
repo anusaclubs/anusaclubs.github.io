@@ -75,7 +75,7 @@ A multi-platform approach is the most effective way to reach the entire campus c
     *   Halls of Residence pages
     *   Other groups relevant to your target audience
 *   **Institutional Promotion:**
-    *   **ANUSA Departments:** Contact relevant departments for promotion (e.g., Queer\*, Women's, BIPOC, International Students', etc.).
+    *   **ANUSA Departments:** Contact relevant departments for promotion (see the [list of departments](https://anusa.com.au/advocacy/) on the ANUSA website).
     *   **Academic Colleges:** If you are a discipline-specific club, ask your College, School, or a relevant course convenor to advertise your event in their newsletters or lectures.
 
 ### Physical Marketing
