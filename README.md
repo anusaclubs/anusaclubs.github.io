@@ -82,7 +82,7 @@ The Clubs Team will review your suggestion and upload it to the portal.
 
 This portal is built by and for the ANU clubs community. We deeply appreciate every contribution, from fixing a single typo to writing a whole new guide.
 
-To acknowledge your effort, we maintain a list of everyone who has helped improve this resource. When your contribution (via a pull request or email) is accepted, we will add your name and a link to your GitHub profile (if applicable) to our contributors' page. Thank you for helping us make this the best resource it can be!
+To acknowledge your effort, we maintain a list of everyone who has helped improve this resource. When your contribution (via a pull request or email) is accepted, we will add your name and a link to your LinkedIn or Github (if applicable) to our contributors' page. Thank you for helping us make this the best resource it can be!
 
 ### Questions?
 
