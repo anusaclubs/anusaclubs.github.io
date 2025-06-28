@@ -43,7 +43,7 @@ However, this does not include Badger & Co, coffee shops, or other commercial ve
 
 As an affiliated ANUSA Club, your events are for ANU students and should fall under **Category 2: ANU Use for Staff and Students**. The university's own policy states this category is for "regular meetings and functions that are critical to social and academic life at ANU" and that for these bookings, **venue hire fees are waived**.
 
-You should not be charged a *base venue hire fee* for using standard ANU venues like the Marie Reay Teaching Centre (MRTC).
+You should not be charged a *base venue hire fee* for using standard ANU venues like the Marie Reay Teaching Centre.
 
 ### Why Might My Club Get Charged?
 

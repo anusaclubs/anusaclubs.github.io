@@ -19,7 +19,7 @@ We thank the following individuals and groups for their work:
 - Charlotte Carnes
 - Phoenix O'Neill
 - Patrick Stephenson
-- The [ANU Disabilities Students Association](https://anusa.com.au/advocacy/anu-disabilities-student-association/)
+- The [ANU Disabilities Student Association](https://anusa.com.au/advocacy/anu-disabilities-student-association/)
 - Former members of Clubs Council Executive.
 
 ---

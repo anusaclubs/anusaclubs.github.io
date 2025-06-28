@@ -8,7 +8,7 @@ description: Comprehensive guidelines for ANU clubs on how to make events, activ
 ---
 
 # Club Accessibility Guidelines
-*With thanks to the [Disabilities Students Association](https://anusa.com.au/advocacy/anu-disabilities-student-association/).*
+*With thanks to the [Disabilities Student Association](https://anusa.com.au/advocacy/anu-disabilities-student-association/).*
 
 ## What is accessibility?
 *   The design of products, devices, services or environments for people with a disability.
