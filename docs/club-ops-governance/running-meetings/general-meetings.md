@@ -52,3 +52,5 @@ If an election is uncontested, the returning officer will announce the candidate
 When elections are contested, candidates should be allowed to speak for a set time and answer questions. Voting normally uses a preferential system if there are more than two candidates, but it could depend on your constitution. Make sure this, and the method of counting is clarified at the beginning of the meeting. After the returning officer has tallied the votes, they will announce the winner. The election of the next position has to wait until the result of the first one so people can run for lots of positions. It's a good idea to start positions from the most important down.
 
 If no candidates run, then the position has a casual vacancy. The executive can fill this vacancy through Expressions of Interest (EOIs).
+
+We have a detailed guide on secure voting [here](./voting.html).
